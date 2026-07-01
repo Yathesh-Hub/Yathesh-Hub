@@ -61,7 +61,7 @@
 - Used Docker for containerization, EC2 (Linux) for hosting, and Terraform for infrastructure provisioning.
 - Implemented CI/CD pipelines with Jenkins and tested API endpoints with Postman and Selenium for reliable performance.
 
-#### 🤖 [Code Morph AI](#) — [Live Demo](#)
+#### 🤖 [Code Morph AI](#) — [Live Demo](https://code-morph-ai-3.vercel.app/dashboard)
 `React.js` `Node.js` `Express.js` `Supabase (PostgreSQL)` `Google Gemini API`
 - Built an AI-powered code conversion platform that translates code between multiple programming languages using the Google Gemini API.
 - Implemented secure authentication with JWT, protected routes, and email OTP-based forgot password functionality.
@@ -81,8 +81,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Yathesh-Hub&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yathesh-Hub&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 > 💡 Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate these stat cards.
@@ -92,11 +92,5 @@
 ### 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatheshinfo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
-
-> 💡 Tip: Replace the `#` links above with your actual LinkedIn and LeetCode profile URLs.
-
----
-
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories and reach out.</i></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yathesh-m-info41/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yathesh41/)
