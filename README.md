@@ -24,18 +24,22 @@
 
 **Languages**
 <br>
+
 <img src="https://skillicons.dev/icons?i=py,js,java" />
 
 **Backend**
 <br>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 **Cloud & DevOps**
 <br>
+
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github" />
 
 **Databases**
 <br>
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" />   <img src="https://go-skill-icons.vercel.app/api/icons?i=cockroachdb" />
 
 </div>
