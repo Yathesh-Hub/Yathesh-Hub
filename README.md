@@ -1,96 +1,53 @@
-# Hi there, I'm Yathesh M 👋
+<div align="center">
 
-**Backend-focused CS undergraduate** building RESTful APIs and deploying containerized applications on AWS using Docker, Jenkins CI/CD, and Terraform. Seeking a backend engineering internship to contribute to scalable, production-grade systems using Node.js and cloud-native infrastructure.
+<!-- Animated typing header -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yathesh+M;Backend+%2B+Cloud+Engineer;Node.js+%7C+AWS+%7C+Docker+%7C+Terraform;Always+Building+Something+New" alt="Typing SVG" />
+</a>
 
-📍 Pollachi, Tamil Nadu, India
+<!-- Profile views + socials -->
+<img src="https://komarev.com/ghpvc/?username=Yathesh-Hub&label=Profile%20Views&color=2496ED&style=flat" alt="Profile Views" />&nbsp;
+<a href="mailto:yatheshinfo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/yathesh-m-info41/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://leetcode.com/u/yathesh41/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>&nbsp;
+<a href="https://www.github.com/Yathesh-Hub"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 
----
+</div>
 
-### 🚀 About Me
+<br>
 
-- 🎓 B.E. in Computer Science & Engineering, Rathinam Technical Campus, Coimbatore (2023 – Present)
-- 🔭 Currently building backend systems with **Node.js**, **Express.js**, and **AWS**
-- ☁️ AWS Certified Cloud Practitioner
-- 🌱 Exploring DevOps tools like Docker, Jenkins, and Terraform
-- 💬 Ask me about REST APIs, cloud infrastructure, and CI/CD pipelines
-- 📫 Reach me at **yatheshinfo@gmail.com**
+<img src="https://raw.githubusercontent.com/andresmoncayo/andresmoncayo/main/wave.gif" width="100%" height="4">
 
----
+## Tech Stack
 
-### 🛠️ Tech Stack
+<div align="center">
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=py,js,java" />
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-**Cloud (AWS)**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-**DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Cloud & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github" />
 
 **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />   <img src="https://go-skill-icons.vercel.app/api/icons?i=cockroachdb" />
 
----
+</div>
 
-### 🌟 Featured Projects
+<br>
 
-#### 🔊 [AWS Polly Text-to-Speech App](#)
-`AWS SDK (Polly)` `Python` `S3` `IAM`
-- Built a cloud-native TTS application using AWS Polly SDK supporting 3+ voice profiles with SSML markup for customized speech synthesis.
-- Implemented secure S3 storage with pre-signed URL delivery, enabling shareable audio links without exposing public bucket access.
+## GitHub Analytics
 
-#### 🎓 [Student Details Management System](#)
-`Node.js` `Express.js` `MongoDB` `REST API` `Postman`
-- Designed and deployed a full-stack Student Management System with a RESTful API using JWT-based authentication, supporting CRUD operations for 500+ student records in MongoDB.
-- Used Docker for containerization, EC2 (Linux) for hosting, and Terraform for infrastructure provisioning.
-- Implemented CI/CD pipelines with Jenkins and tested API endpoints with Postman and Selenium for reliable performance.
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yathesh-Hub&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
-#### 🤖 [Code Morph AI](#) — [Live Demo](https://code-morph-ai-3.vercel.app/dashboard)
-`React.js` `Node.js` `Express.js` `Supabase (PostgreSQL)` `Google Gemini API`
-- Built an AI-powered code conversion platform that translates code between multiple programming languages using the Google Gemini API.
-- Implemented secure authentication with JWT, protected routes, and email OTP-based forgot password functionality.
-- Developed a responsive interface with conversion history storage using Supabase PostgreSQL, deployed on Vercel.
-
-> 💡 Tip: Replace the `#` links above with your actual GitHub repo and live demo URLs.
-
----
-
-### 🏅 Certifications
-
-- **AWS Certified Cloud Practitioner** — Cloud fundamentals, IAM, core AWS services, pricing & security
-- **NPTEL Cloud Computing Certification** — Fundamentals of cloud computing, service models and deployment models
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Yathesh-Hub&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yathesh-Hub&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-> 💡 Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate these stat cards.
-
----
-
-### 📫 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatheshinfo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yathesh-m-info41/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yathesh41/)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yathesh-Hub&theme=tokyo-night&hide_border=true" height="165"/>
+</div>
