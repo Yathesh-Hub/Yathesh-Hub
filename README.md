@@ -44,13 +44,3 @@
 </div>
 
 <br>
-
-## GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yathesh-Hub&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yathesh-Hub&theme=tokyo-night&hide_border=true" height="165"/>
-</div>
