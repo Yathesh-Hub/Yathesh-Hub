@@ -23,7 +23,7 @@
 **Languages**
 <br>
 
-<img src="https://skillicons.dev/icons?i=py,js,java" />
+<img src="https://skillicons.dev/icons?i=py,js" />
 
 **Backend**
 <br>
